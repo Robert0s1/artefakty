@@ -2,7 +2,7 @@ Wstęp
 ------------
 
 * [Oprogramowanie](#oprogramowanie)
-* [Materiały pomocnicze](#materialy-pomocnicze)
+* [Materiały pomocnicze](#materiały-pomocnicze)
 * [Web portal](#web-portal)
 * [Systemy symulacji](#systemy-symulacji)
 * [Infrastruktura](#infrastruktura)
