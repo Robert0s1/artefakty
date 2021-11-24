@@ -14,14 +14,16 @@
 # Systemy symulacji
 
 
-Introduction
+Wstęp
 ------------
 
-The Forge software is a fully native implementation of the [TLS][] protocol
-in JavaScript, a set of cryptography utilities, and a set of tools for
-developing Web Apps that utilize many network resources.
+* [Oprogramowanie](#oprogramowanie)
+* [Performance](#performance)
+* [Installation](#installation)
+* [Testing](#testing)
+* [Contributing](#contributing)
 
-Performance
+Oprogramowanie
 ------------
 
 Forge is fast. Benchmarks against other popular JavaScript cryptography
@@ -33,8 +35,4 @@ libraries can be found here:
 Documentation
 -------------
 
-* [Introduction](#introduction)
-* [Performance](#performance)
-* [Installation](#installation)
-* [Testing](#testing)
-* [Contributing](#contributing)
+
