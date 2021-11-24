@@ -1,6 +1,6 @@
 # artefakty
   Lista opisanych artefaktów:
-1. Oprogramowanie#L
+1. [Oprogramowanie] (#L10)
 2. Materiały pomocnicze
 3. Web portal
 4. Infrastruktura
