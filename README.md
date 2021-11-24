@@ -1,6 +1,6 @@
 # artefakty
   Lista opisanych artefaktów:
-1. [Oprogramowanie] (https://github.com/Cyberprojekt/artefakty/blob/main/README.md#oprogramowanie)
+1. [Oprogramowanie] (#Oprogramowanie)
 2. Materiały pomocnicze
 3. Web portal
 4. Infrastruktura
