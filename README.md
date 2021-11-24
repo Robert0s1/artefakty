@@ -1,9 +1,14 @@
 # artefakty
-
-1. Oprogramowanie
+  Lista opisanych artefaktów:
+1. Oprogramowanie#L
 2. Materiały pomocnicze
 3. Web portal
 4. Infrastruktura
 5. Systemy symulacji
 
-Opis produktów projektu
+
+# Oprogramowanie
+# Materiały pomocnicze
+# Web portal
+# Infrastruktura
+# Systemy symulacji
