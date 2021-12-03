@@ -30,4 +30,10 @@ Infrastruktura
 **Opis**: Częściami składowymi całej infrastruktury projektu cyberpoligonu są  [serwery do wirtualizacji](#serwery-do-wirtualizacji),  [dedykowana sala wykładowa](#dedykowana-sala-wykładowa), [routery i switche](#routery-i-switche) oraz [serwery](#serwery).
 
 ### Serwery do wirtualizacji
-gfdg
+Serwery te służą do wirtualizacji środowiska na którym odbywają się wcześniej opracowane symulacje. Na serwerach wdrożone są rozwiązania oparte o konteneryzacje na technologii Docker. 
+
+### Dedykowana sala wykładowa
+Do poprawnego działania cyberpoligonu niezbędne jest dobrze wyposażone miejsce robocze, w tym wypadku sala wykładowa. W takiej sali musi znajdować się odpowiednia ilość stanowisk do pracy, okablowanie, oraz komputery posiadające odpowiednie licencje.
+
+### Routery i switche
+
