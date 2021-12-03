@@ -27,3 +27,4 @@ Systemy symulacji
 Infrastruktura
 ------------
 
+**Opis**: Częściami składowymi całej infrastruktury projektu cyberpoligonu są  
