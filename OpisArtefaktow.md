@@ -36,4 +36,13 @@ Serwery te służą do wirtualizacji środowiska na którym odbywają się wcze�
 Do poprawnego działania cyberpoligonu niezbędne jest dobrze wyposażone miejsce robocze, w tym wypadku sala wykładowa. W takiej sali musi znajdować się odpowiednia ilość stanowisk do pracy, okablowanie, oraz komputery posiadające odpowiednie licencje.
 
 ### Routery i switche
+Zadaniem routerów i switchów jest integracja elementów wchodzących w skład sieci cyberpoligonu. Tworzą dedykowaną sieć lokalną na której zachodzi wymiana danych ze stanowisk. Są one skonfigurowane, aby utworzyć wydzieloną sieć akademicką.
+
+### Serwery
+Serwery wchodzące w skład cyberpoligonu dzielą się na serwer HTTP oraz serwer bazodanowy(MySQL). 
+
+Serwer HTTP obsługuje żądania protokołu komunikacyjnego. Obsługuje on stronę sieciową cyberpoligonu, na której znajdują się informacje na temat produktu, producenta, oraz niezbędne informacje do komunikacji z producentem.
+
+Serwer bazodanowy(MySQL) wykorzystywany jest do zarządzania i równoczesnego udostępniania danych niezbędnych do prawidłowego funkcjonowania cyberpoligonu. Dzięki serwerom bazodanowym przechowywane zbiory danych są spójne a odpowiednie mechanizmy zapewniają ich bezpieczeństwo. Głównymi zbiorami danych na tym serwerze to baza danych zadań, baza danych materiałów pomocniczych, oraz baza danych wykorzystywana do monitorowania procesu symulacji.
+
 
