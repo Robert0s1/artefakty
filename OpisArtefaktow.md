@@ -27,4 +27,4 @@ Systemy symulacji
 Infrastruktura
 ------------
 
-**Opis**: Częściami składowymi całej infrastruktury projektu cyberpoligonu są  [serwery do wirtualizacji](#serwery-do-wirtualizacji),[dedykowana sala wykładowa](#dedykowana-sala-wykładowa), [routery i switche](#routery-i-switche) oraz [serwery](#serwery) .
+**Opis**: Częściami składowymi całej infrastruktury projektu cyberpoligonu są  [serwery do wirtualizacji](#serwery-do-wirtualizacji),  [dedykowana sala wykładowa](#dedykowana-sala-wykładowa), [routery i switche](#routery-i-switche) oraz [serwery](#serwery) .
