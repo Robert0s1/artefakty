@@ -39,10 +39,10 @@ Materiały pomocnicze
 
 **Opis**: Na materiały pomocnicze składają się: [materiały pomocnicze dla wykładowców](#materiały-pomocnicze-dla-wykładowców) oraz [materiały pomocnicze dla użytkowników](#materiały-pomocnicze-dla-użytkowników).
 
-###Materiały pomocnicze dla wykładowców
+### Materiały pomocnicze dla wykładowców
 Na materiały pomocnicze dla wykładowców składają się opracowania w różnych językach (polski, angielski, niemiecki, rosyjski). Wielojęzykowe opracowania mają ułatwić rozpromowanie produktu w wielu krajach. Dodatkowo w ramach tych opracowań stworzono filmiki szkoleniowe a także audiobooki. Materiały te przygotowane w przystępny sposób oraz z przyjazną szatą graficzną mają na celu ułatwienie wykładowcy poznanie środowiska szkoleniowego oraz wszystkich funkcjonalności w nim zawartych. W ramach określonych zadań materiały pomocnicze zawierają dodatkowo literaturę pomocniczą do szerszego zrozumienia zadania bądź problemu.
 
-###Materiały pomocnicze dla użytkowników
+### Materiały pomocnicze dla użytkowników
 Na materiały pomocnicze również składają się opracowania w różnych językach a także filmiki szkoleniowe, literaturę pomocniczą czy audioboki. Materiały pomocnicze dla użytkowników zostały wykonane w tych samych językach co materiały dla wykładowców. Najważniejszą różnicą jest zakres. Owe materiały mają za zadanie ukierunkować użytkownika w wykonaniu określonych zadań. Materiały te mają wprowadzić użytkownika do zadania, przedstawić najważniejsze, istotne parametry środowiska, w którym ma ćwiczyć oraz podpowiedzieć jak rozpocząć dane zadanie.
 
 
