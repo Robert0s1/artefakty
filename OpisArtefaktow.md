@@ -50,8 +50,7 @@ Na materiały pomocnicze również składają się opracowania w różnych języ
 
 Web portal
 ------------
-**Opis**: Web portal składa się z: Web portal
-------------
+
 **Opis**: Web portal składa się z: [panelu administratora](#panelu-administratora), [panelu użytkownika](#panelu-użytkownika) oraz [Systemu zarządzania użytkownikami- Konta dostępowe (Administrator, użytkownik)](#Systemu-zarządzania-użytkownikami-Konta-dostępowe-(Administrator,-użytkownik)).
 
 ### Panel Administratora
