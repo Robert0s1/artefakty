@@ -51,7 +51,7 @@ Na materiały pomocnicze również składają się opracowania w różnych języ
 Web portal
 ------------
 
-**Opis**: Web portal składa się z: [panelu administratora] (#panelu administratora), [panelu użytkownika](#panelu użytkownika) oraz [Systemu zarządzania użytkownikami- Konta dostępowe (Administrator, użytkownik)](#Systemu zarządzania użytkownikami- Konta dostępowe (Administrator, użytkownik)).
+**Opis**: Web portal składa się z: [panel administratora](#panel administratora), [panel użytkownika](#panel użytkownika) oraz [System zarządzania użytkownikami- Konta dostępowe (Administrator, użytkownik)](#System zarządzania użytkownikami- Konta dostępowe (Administrator, użytkownik)).
 
 ### Panel Administratora
 Panel administratora pozwala na pełną kontrolę każdego ćwiczenia które będzie przebiegało i jego każdym poszczególnym elementem. Możemy dowolnie ingerować prawie we wszystko. Dlatego do zarządzania panelem administratora będzie nam potrzebny system kontroli cyberpoligonu po to abyśmy mogli zarządzać: 
