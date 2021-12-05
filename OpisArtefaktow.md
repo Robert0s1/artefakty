@@ -50,7 +50,22 @@ Na materiały pomocnicze również składają się opracowania w różnych języ
 
 Web portal
 ------------
-**Opis**: Web portal składa się z: [panelu administratora](#panelu administratora).
+**Opis**: Web portal składa się z: Web portal
+------------
+**Opis**: Web portal składa się z: [panelu administratora](#panelu-administratora), [panelu użytkownika](#panelu-użytkownika) oraz [Systemu zarządzania użytkownikami- Konta dostępowe (Administrator, użytkownik)](#Systemu-zarządzania-użytkownikami-Konta-dostępowe-(Administrator,-użytkownik)).
+
+### Panel Administratora
+Panel administratora pozwala na pełną kontrolę każdego ćwiczenia które będzie przebiegało i jego każdym poszczególnym elementem. Możemy dowolnie ingerować prawie we wszystko. Dlatego do zarządzania panelem administratora będzie nam potrzebny system kontroli cyberpoligonu po to abyśmy mogli zarządzać: 
+
+- wyświetlaniem dodatkowych podpowiedzi:  mają ułatwić administratorwi nadzorowanie pracy użytkownika w takim celu że niedość iż będzie nam się wyświetlał komunikat o tym co trzeba teraz zrobić to administrator będzie mógł tą wykorzystac tę wiadomość w celu naprowadzenia użytkowników
+- nagrywaniem przebiegu zadania u określonego użytkownika: bardzo przydatna opcja która pozwala nam na odtworzenie powtórki z tego co robił każdy pojedynczy użytkownik. Ma to służyć do analizowania błędów jak i słusznych wyborów aby szybciej się uczyć.
+- kontrolą przebiegu zadania: czyli zebyśmy mogli w każdej chwili zacząć lub zakończyć zadanie lub zaplanować je z wyprzedzeniem.
+
+### Panel użytkownika
+Panel użytkownika jest aplikacją umożliwiającą użytkownikom posiadającym usługi w sieci cyberpoligonu prace na jego platformie.
+
+### System zarządzania użytkownikami - Konta dostępowe (Administraor, użytkownik)
+Jego zadaniem będzie tworzenie środowiska pracy dla użytkownika i administratora.
 
 ### Panel Administratora
 Panel administratora pozwala na pełną kontrolę każdego ćwiczenia które będzie przebiegało i jego każdym poszczególnym elementem. Możemy dowolnie ingerować prawie we wszystko. Dlatego do zarządzania panelem administratora będzie nam potrzebny system kontroli cyberpoligonu po to abyśmy mogli zarządzać: 
