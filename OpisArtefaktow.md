@@ -12,22 +12,44 @@ Oprogramowanie
 
 **Opis**: Na finalny produkt o nazwie oprogramowanie składają się cztery części. Są to [skrypty zadań](#skrypty-zadań), [system generowania raportów](#system-generowania-raportów), [grupowy komunikator](#grupowy-komunikator) oraz [system zbierania i analizowania danych](#system-zbierania-i-analizowania-danych).
 
-## Skrypty zadań
+### Skrypty zadań
 Na skrypty zadań składają się zadania dla nlue team'u oraz red team'u. W skryptach zawarty jest kod, który będzie wykorzystywany przez systemy symulacji. Dzięki tym skryptom systemy symulacji będą wiedzieć co, z jakimi parametrami oraz w jaki sposób mają uruchomić (przykład- skrypt zadania będzie posiadał określone pliki z logami zaś system symulacji będzie odpowiedzialny za stworzenie maszyn wirtualnych zawierający dane pliki)
 
 ### System generowania raportów
 System generowania raportów składa się z generowania raportu końcowego, bieżącego raportowania zadania oraz statystyk grup szkolnych.
 
+- Generowanie raportu końcowego ma za zadanie pobrać zebrane dane a następnie je przeanalizować celem przedstawienia ich w formie graficznej
+- Bieżące raportowanie zadania ma na celu wyświetlanie wyniku w zależności od uzyskanych postępów
+- Statystyki grup szkolnych mają ułatwić kontrolę postępów pojedynczych użytkowników jak i całych grup
+
 ### Grupowy komunikator
+Na grupowy komunikator składają się: komunikator głosowy oraz tekstowy. Komunikatory te mają ułatwić pracę użytkowników oraz zwiększyć możliwości współpracy w trakcie trwania zadania. Ma to również nauczyć współpracy z użytkownikami oddalonymi od miejsca pracy, gdyż w świecie IT bardzo często zdarza się reagować na incydenty na odległość.
 
 ### System zbierania i analizowania danych
+Na system zbierania i analizowania danych składają się: Analiza zebranych danych celem raportowania oraz usprawniania cyberpoligonu, Sensory monitorujące ruch użytkownika oraz parametry symulacji systemu oraz Zbieranie aktywności użytkownika.
+
+Na system analizy zebranych danych celem raportowania oraz usprawniania cyberpoligonu składa sie kilka elementów takich jak System generowania raportów do administratora, system generowania raportów do producenta, system analizy danych systemowych. Ma to ułatwić wdrażanie poprawek oraz nowych rozwiązań.
+Sensory monitorujące ruch użytkownika mają na celu rejestrowania parametrów systemu w którym pracuje użytkownik, ale także rejestrowania samych działań użytkownika. Wykorzystuje przy tym określone algorytmy, które pomijają nieznaczące funkcje do rejestracji
+Zbieranie aktywności użytkownika polega na rejestracji ram czasowych a także analize działań użytkownika.
+
 
 
 Materiały pomocnicze
 ------------
 
+**Opis**: Na materiały pomocnicze składają się: [materiały pomocnicze dla wykładowców](#materiały-pomocnicze-dla-wykładowców) oraz [materiały pomocnicze dla użytkowników](#materiały-pomocnicze-dla-użytkowników).
+
+###Materiały pomocnicze dla wykładowców
+Na materiały pomocnicze dla wykładowców składają się opracowania w różnych językach (polski, angielski, niemiecki, rosyjski). Wielojęzykowe opracowania mają ułatwić rozpromowanie produktu w wielu krajach. Dodatkowo w ramach tych opracowań stworzono filmiki szkoleniowe a także audiobooki. Materiały te przygotowane w przystępny sposób oraz z przyjazną szatą graficzną mają na celu ułatwienie wykładowcy poznanie środowiska szkoleniowego oraz wszystkich funkcjonalności w nim zawartych. W ramach określonych zadań materiały pomocnicze zawierają dodatkowo literaturę pomocniczą do szerszego zrozumienia zadania bądź problemu.
+
+###Materiały pomocnicze dla użytkowników
+Na materiały pomocnicze również składają się opracowania w różnych językach a także filmiki szkoleniowe, literaturę pomocniczą czy audioboki. Materiały pomocnicze dla użytkowników zostały wykonane w tych samych językach co materiały dla wykładowców. Najważniejszą różnicą jest zakres. Owe materiały mają za zadanie ukierunkować użytkownika w wykonaniu określonych zadań. Materiały te mają wprowadzić użytkownika do zadania, przedstawić najważniejsze, istotne parametry środowiska, w którym ma ćwiczyć oraz podpowiedzieć jak rozpocząć dane zadanie.
+
+
 Web portal
 ------------
+
+
 
 Systemy symulacji
 ------------
