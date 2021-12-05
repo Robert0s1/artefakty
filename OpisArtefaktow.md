@@ -54,7 +54,7 @@ Web portal
 Systemy symulacji
 ------------
 
-**Opis**: SNa system symulacji składają się: [Symulacja popularnych serwisów internetowych](#symulacja-popularnych-serwisów-internetowych), [Symulacja ruchu sieciowego](#symulacja-ruchu-sieciowego), [Symulacja ataku](#symulacja-ataku) oraz [symulacja określonych systemów do obrony](#symulacja-określonych-systemów-do-obrony). 
+**Opis**: Na system symulacji składają się: [Symulacja popularnych serwisów internetowych](#symulacja-popularnych-serwisów-internetowych), [Symulacja ruchu sieciowego](#symulacja-ruchu-sieciowego), [Symulacja ataku](#symulacja-ataku) oraz [symulacja określonych systemów do obrony](#symulacja-określonych-systemów-do-obrony). 
 
 
 ### Symulacja popularnych serwisów internetowych
