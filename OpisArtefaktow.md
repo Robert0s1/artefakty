@@ -30,6 +30,25 @@ Web portal
 Systemy symulacji
 ------------
 
+**Opis**: System symulacji składa się z [Symulacja popularnych serwisów internetowych](#symulacja-popularnych-serwisów-internetowych)Symulacji popularnych serwisów internetowych, [Symulacja ruchu sieciowego](#symulacja-ruchu-sieciowego)Symulacji ruchu sieciowego, [Symulacja ataku](#symulacja-ataku)Symulacji ataku oraz [symulacja określonych systemów do obrony](#symulacja-określonych-systemów-do-obrony)Symulacji określonych systemów do obrony. 
+
+
+### Symulacja popularnych serwisów internetowych
+polega na tym, aby użytkownik mógł swobodnie się przemieszczać w środowisku, oraz by mógł odczuć, że środowisko jest jak najbardziej realne. 
+
+### Symulacja ruchu sieciowego
+polega na tym, aby wykorzystać algorytmy sztucznej inteligencji, abyśmy mogli symulować przepływ danych między
+routerami, urządzeniami itd.
+
+### Symulacja ataku
+polega na tym, aby użytkownik mógł ćwiczyć, sprawdzać możliwości oraz poznać swoje słabe i silne strony w 
+różnych wariantach ataków poprzez załadowanie konkretnego scenariusza zadania.
+
+### Symulacja określonych systemów do obrony
+polega na symulowaniu konkretnego środowiska systemu operacyjnego wraz z lukami bezpieczeństwa,
+tak aby użytkownik miał możliwość eliminacji tychże luk.
+
+
 Infrastruktura
 ------------
 
