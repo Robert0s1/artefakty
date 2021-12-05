@@ -10,9 +10,15 @@ Wstęp
 Oprogramowanie
 ------------
 
-**Opis**: Na finalny produkt o nazwie oprogramowanie składają się cztery części. Są to [skrypty zadań](#skrypty-zadań), systemy generowania raportów, grupowy komunikator oraz system zbierania i analizowania danych.
+**Opis**: Na finalny produkt o nazwie oprogramowanie składają się cztery części. Są to [skrypty zadań](#skrypty-zadań), [system generowania raportów](#system-generowania-raportów)system generowania raportów, [grupowy komunikator](#grupowy-komunikator)grupowy komunikator oraz [system zbierania i analizowania danych](#system-zbierania-i-analizowania-danych)system zbierania i analizowania danych.
 
 ### Skrypty zadań
+
+### System generowania raportów
+
+### Grupowy komunikator
+
+### System zbierania i analizowania danych
 
 
 Materiały pomocnicze
