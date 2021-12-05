@@ -12,9 +12,11 @@ Oprogramowanie
 
 **Opis**: Na finalny produkt o nazwie oprogramowanie składają się cztery części. Są to [skrypty zadań](#skrypty-zadań), [system generowania raportów](#system-generowania-raportów), [grupowy komunikator](#grupowy-komunikator) oraz [system zbierania i analizowania danych](#system-zbierania-i-analizowania-danych).
 
-### Skrypty zadań
+## Skrypty zadań
+Na skrypty zadań składają się zadania dla nlue team'u oraz red team'u. W skryptach zawarty jest kod, który będzie wykorzystywany przez systemy symulacji. Dzięki tym skryptom systemy symulacji będą wiedzieć co, z jakimi parametrami oraz w jaki sposób mają uruchomić (przykład- skrypt zadania będzie posiadał określone pliki z logami zaś system symulacji będzie odpowiedzialny za stworzenie maszyn wirtualnych zawierający dane pliki)
 
 ### System generowania raportów
+System generowania raportów składa się z generowania raportu końcowego, bieżącego raportowania zadania oraz statystyk grup szkolnych.
 
 ### Grupowy komunikator
 
