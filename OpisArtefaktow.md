@@ -10,7 +10,7 @@ Wstęp
 Oprogramowanie
 ------------
 
-**Opis**: Na finalny produkt o nazwie oprogramowanie składają się cztery części. Są to [skrypty zadań](#skrypty-zadań), [system generowania raportów](#system-generowania-raportów)system generowania raportów, [grupowy komunikator](#grupowy-komunikator)grupowy komunikator oraz [system zbierania i analizowania danych](#system-zbierania-i-analizowania-danych)system zbierania i analizowania danych.
+**Opis**: Na finalny produkt o nazwie oprogramowanie składają się cztery części. Są to [skrypty zadań](#skrypty-zadań), [system generowania raportów](#system-generowania-raportów), [grupowy komunikator](#grupowy-komunikator) oraz [system zbierania i analizowania danych](#system-zbierania-i-analizowania-danych).
 
 ### Skrypty zadań
 
@@ -30,7 +30,7 @@ Web portal
 Systemy symulacji
 ------------
 
-**Opis**: System symulacji składa się z [Symulacja popularnych serwisów internetowych](#symulacja-popularnych-serwisów-internetowych)Symulacji popularnych serwisów internetowych, [Symulacja ruchu sieciowego](#symulacja-ruchu-sieciowego)Symulacji ruchu sieciowego, [Symulacja ataku](#symulacja-ataku)Symulacji ataku oraz [symulacja określonych systemów do obrony](#symulacja-określonych-systemów-do-obrony)Symulacji określonych systemów do obrony. 
+**Opis**: SNa system symulacji składają się: [Symulacja popularnych serwisów internetowych](#symulacja-popularnych-serwisów-internetowych), [Symulacja ruchu sieciowego](#symulacja-ruchu-sieciowego), [Symulacja ataku](#symulacja-ataku) oraz [symulacja określonych systemów do obrony](#symulacja-określonych-systemów-do-obrony). 
 
 
 ### Symulacja popularnych serwisów internetowych
